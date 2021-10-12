@@ -1,2 +1,2 @@
 # Web-shop-Herbie
-E-commerce plateform
+E-commerce platform
